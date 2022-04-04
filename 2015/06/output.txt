@@ -1,0 +1,3302 @@
+[
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 461,
+            row: 550,
+        },
+        b: Position {
+            column: 564,
+            row: 900,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 370,
+            row: 39,
+        },
+        b: Position {
+            column: 425,
+            row: 839,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 464,
+            row: 858,
+        },
+        b: Position {
+            column: 833,
+            row: 915,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 812,
+            row: 389,
+        },
+        b: Position {
+            column: 865,
+            row: 874,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 599,
+            row: 989,
+        },
+        b: Position {
+            column: 806,
+            row: 993,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 376,
+            row: 415,
+        },
+        b: Position {
+            column: 768,
+            row: 548,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 606,
+            row: 361,
+        },
+        b: Position {
+            column: 892,
+            row: 600,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 448,
+            row: 208,
+        },
+        b: Position {
+            column: 645,
+            row: 684,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 50,
+            row: 472,
+        },
+        b: Position {
+            column: 452,
+            row: 788,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 205,
+            row: 417,
+        },
+        b: Position {
+            column: 703,
+            row: 826,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 533,
+            row: 331,
+        },
+        b: Position {
+            column: 906,
+            row: 873,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 857,
+            row: 493,
+        },
+        b: Position {
+            column: 989,
+            row: 970,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 631,
+            row: 950,
+        },
+        b: Position {
+            column: 894,
+            row: 975,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 387,
+            row: 19,
+        },
+        b: Position {
+            column: 720,
+            row: 700,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 511,
+            row: 843,
+        },
+        b: Position {
+            column: 581,
+            row: 945,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 514,
+            row: 557,
+        },
+        b: Position {
+            column: 662,
+            row: 883,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 269,
+            row: 809,
+        },
+        b: Position {
+            column: 876,
+            row: 847,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 149,
+            row: 517,
+        },
+        b: Position {
+            column: 716,
+            row: 777,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 994,
+            row: 939,
+        },
+        b: Position {
+            column: 998,
+            row: 988,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 467,
+            row: 662,
+        },
+        b: Position {
+            column: 555,
+            row: 957,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 952,
+            row: 417,
+        },
+        b: Position {
+            column: 954,
+            row: 845,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 565,
+            row: 226,
+        },
+        b: Position {
+            column: 944,
+            row: 880,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 214,
+            row: 319,
+        },
+        b: Position {
+            column: 805,
+            row: 722,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 532,
+            row: 276,
+        },
+        b: Position {
+            column: 636,
+            row: 847,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 619,
+            row: 80,
+        },
+        b: Position {
+            column: 689,
+            row: 507,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 390,
+            row: 706,
+        },
+        b: Position {
+            column: 884,
+            row: 722,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 17,
+            row: 634,
+        },
+        b: Position {
+            column: 537,
+            row: 766,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 706,
+            row: 440,
+        },
+        b: Position {
+            column: 834,
+            row: 441,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 318,
+            row: 207,
+        },
+        b: Position {
+            column: 499,
+            row: 530,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 698,
+            row: 185,
+        },
+        b: Position {
+            column: 830,
+            row: 343,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 566,
+            row: 679,
+        },
+        b: Position {
+            column: 744,
+            row: 716,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 347,
+            row: 482,
+        },
+        b: Position {
+            column: 959,
+            row: 482,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 39,
+            row: 799,
+        },
+        b: Position {
+            column: 981,
+            row: 872,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 583,
+            row: 543,
+        },
+        b: Position {
+            column: 846,
+            row: 710,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 367,
+            row: 664,
+        },
+        b: Position {
+            column: 595,
+            row: 872,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 805,
+            row: 439,
+        },
+        b: Position {
+            column: 964,
+            row: 995,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 209,
+            row: 584,
+        },
+        b: Position {
+            column: 513,
+            row: 802,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 106,
+            row: 497,
+        },
+        b: Position {
+            column: 266,
+            row: 770,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 975,
+            row: 2,
+        },
+        b: Position {
+            column: 984,
+            row: 623,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 316,
+            row: 684,
+        },
+        b: Position {
+            column: 369,
+            row: 876,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 30,
+            row: 309,
+        },
+        b: Position {
+            column: 259,
+            row: 554,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 399,
+            row: 680,
+        },
+        b: Position {
+            column: 861,
+            row: 942,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 227,
+            row: 740,
+        },
+        b: Position {
+            column: 850,
+            row: 829,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 386,
+            row: 603,
+        },
+        b: Position {
+            column: 552,
+            row: 879,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 703,
+            row: 795,
+        },
+        b: Position {
+            column: 791,
+            row: 963,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 573,
+            row: 803,
+        },
+        b: Position {
+            column: 996,
+            row: 878,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 993,
+            row: 939,
+        },
+        b: Position {
+            column: 997,
+            row: 951,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 809,
+            row: 221,
+        },
+        b: Position {
+            column: 869,
+            row: 723,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 38,
+            row: 720,
+        },
+        b: Position {
+            column: 682,
+            row: 751,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 318,
+            row: 732,
+        },
+        b: Position {
+            column: 720,
+            row: 976,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 88,
+            row: 459,
+        },
+        b: Position {
+            column: 392,
+            row: 654,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 865,
+            row: 654,
+        },
+        b: Position {
+            column: 911,
+            row: 956,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 264,
+            row: 284,
+        },
+        b: Position {
+            column: 857,
+            row: 956,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 281,
+            row: 776,
+        },
+        b: Position {
+            column: 610,
+            row: 797,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 492,
+            row: 660,
+        },
+        b: Position {
+            column: 647,
+            row: 910,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 879,
+            row: 703,
+        },
+        b: Position {
+            column: 925,
+            row: 981,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 772,
+            row: 414,
+        },
+        b: Position {
+            column: 974,
+            row: 518,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 694,
+            row: 41,
+        },
+        b: Position {
+            column: 755,
+            row: 96,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 452,
+            row: 406,
+        },
+        b: Position {
+            column: 885,
+            row: 881,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 107,
+            row: 905,
+        },
+        b: Position {
+            column: 497,
+            row: 910,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 647,
+            row: 222,
+        },
+        b: Position {
+            column: 910,
+            row: 532,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 679,
+            row: 40,
+        },
+        b: Position {
+            column: 845,
+            row: 358,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 144,
+            row: 205,
+        },
+        b: Position {
+            column: 556,
+            row: 362,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 871,
+            row: 804,
+        },
+        b: Position {
+            column: 962,
+            row: 878,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 545,
+            row: 676,
+        },
+        b: Position {
+            column: 545,
+            row: 929,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 316,
+            row: 716,
+        },
+        b: Position {
+            column: 413,
+            row: 941,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 488,
+            row: 826,
+        },
+        b: Position {
+            column: 755,
+            row: 971,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 957,
+            row: 832,
+        },
+        b: Position {
+            column: 976,
+            row: 992,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 857,
+            row: 770,
+        },
+        b: Position {
+            column: 905,
+            row: 964,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 319,
+            row: 198,
+        },
+        b: Position {
+            column: 787,
+            row: 673,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 832,
+            row: 813,
+        },
+        b: Position {
+            column: 863,
+            row: 844,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 818,
+            row: 296,
+        },
+        b: Position {
+            column: 818,
+            row: 681,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 71,
+            row: 699,
+        },
+        b: Position {
+            column: 91,
+            row: 960,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 838,
+            row: 578,
+        },
+        b: Position {
+            column: 967,
+            row: 928,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 440,
+            row: 856,
+        },
+        b: Position {
+            column: 507,
+            row: 942,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 121,
+            row: 970,
+        },
+        b: Position {
+            column: 151,
+            row: 974,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 391,
+            row: 192,
+        },
+        b: Position {
+            column: 659,
+            row: 751,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 78,
+            row: 210,
+        },
+        b: Position {
+            column: 681,
+            row: 419,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 324,
+            row: 591,
+        },
+        b: Position {
+            column: 593,
+            row: 939,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 159,
+            row: 366,
+        },
+        b: Position {
+            column: 249,
+            row: 760,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 617,
+            row: 167,
+        },
+        b: Position {
+            column: 954,
+            row: 601,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 484,
+            row: 607,
+        },
+        b: Position {
+            column: 733,
+            row: 657,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 587,
+            row: 96,
+        },
+        b: Position {
+            column: 888,
+            row: 819,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 680,
+            row: 984,
+        },
+        b: Position {
+            column: 941,
+            row: 991,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 800,
+            row: 512,
+        },
+        b: Position {
+            column: 968,
+            row: 691,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 123,
+            row: 588,
+        },
+        b: Position {
+            column: 853,
+            row: 603,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 1,
+            row: 862,
+        },
+        b: Position {
+            column: 507,
+            row: 912,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 699,
+            row: 839,
+        },
+        b: Position {
+            column: 973,
+            row: 878,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 848,
+            row: 89,
+        },
+        b: Position {
+            column: 887,
+            row: 893,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 344,
+            row: 353,
+        },
+        b: Position {
+            column: 462,
+            row: 403,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 780,
+            row: 731,
+        },
+        b: Position {
+            column: 841,
+            row: 760,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 693,
+            row: 973,
+        },
+        b: Position {
+            column: 847,
+            row: 984,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 989,
+            row: 936,
+        },
+        b: Position {
+            column: 996,
+            row: 958,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 168,
+            row: 475,
+        },
+        b: Position {
+            column: 206,
+            row: 963,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 742,
+            row: 683,
+        },
+        b: Position {
+            column: 769,
+            row: 845,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 768,
+            row: 116,
+        },
+        b: Position {
+            column: 987,
+            row: 396,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 190,
+            row: 364,
+        },
+        b: Position {
+            column: 617,
+            row: 526,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 470,
+            row: 266,
+        },
+        b: Position {
+            column: 530,
+            row: 839,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 122,
+            row: 497,
+        },
+        b: Position {
+            column: 969,
+            row: 645,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 492,
+            row: 432,
+        },
+        b: Position {
+            column: 827,
+            row: 790,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 505,
+            row: 636,
+        },
+        b: Position {
+            column: 957,
+            row: 820,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 295,
+            row: 476,
+        },
+        b: Position {
+            column: 698,
+            row: 958,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 63,
+            row: 298,
+        },
+        b: Position {
+            column: 202,
+            row: 396,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 157,
+            row: 315,
+        },
+        b: Position {
+            column: 412,
+            row: 939,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 69,
+            row: 789,
+        },
+        b: Position {
+            column: 134,
+            row: 837,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 678,
+            row: 335,
+        },
+        b: Position {
+            column: 896,
+            row: 541,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 140,
+            row: 516,
+        },
+        b: Position {
+            column: 842,
+            row: 668,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 697,
+            row: 585,
+        },
+        b: Position {
+            column: 712,
+            row: 668,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 507,
+            row: 832,
+        },
+        b: Position {
+            column: 578,
+            row: 949,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 678,
+            row: 279,
+        },
+        b: Position {
+            column: 886,
+            row: 621,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 449,
+            row: 744,
+        },
+        b: Position {
+            column: 826,
+            row: 910,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 835,
+            row: 354,
+        },
+        b: Position {
+            column: 921,
+            row: 741,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 924,
+            row: 878,
+        },
+        b: Position {
+            column: 985,
+            row: 952,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 666,
+            row: 503,
+        },
+        b: Position {
+            column: 922,
+            row: 905,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 947,
+            row: 453,
+        },
+        b: Position {
+            column: 961,
+            row: 587,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 525,
+            row: 190,
+        },
+        b: Position {
+            column: 795,
+            row: 654,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 62,
+            row: 320,
+        },
+        b: Position {
+            column: 896,
+            row: 362,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 21,
+            row: 458,
+        },
+        b: Position {
+            column: 972,
+            row: 536,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 446,
+            row: 429,
+        },
+        b: Position {
+            column: 821,
+            row: 970,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 376,
+            row: 423,
+        },
+        b: Position {
+            column: 805,
+            row: 455,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 494,
+            row: 896,
+        },
+        b: Position {
+            column: 715,
+            row: 937,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 583,
+            row: 270,
+        },
+        b: Position {
+            column: 667,
+            row: 482,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 183,
+            row: 468,
+        },
+        b: Position {
+            column: 280,
+            row: 548,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 623,
+            row: 289,
+        },
+        b: Position {
+            column: 750,
+            row: 524,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 836,
+            row: 706,
+        },
+        b: Position {
+            column: 967,
+            row: 768,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 419,
+            row: 569,
+        },
+        b: Position {
+            column: 912,
+            row: 908,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 428,
+            row: 260,
+        },
+        b: Position {
+            column: 660,
+            row: 433,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 683,
+            row: 627,
+        },
+        b: Position {
+            column: 916,
+            row: 816,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 447,
+            row: 973,
+        },
+        b: Position {
+            column: 866,
+            row: 980,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 688,
+            row: 607,
+        },
+        b: Position {
+            column: 938,
+            row: 990,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 245,
+            row: 187,
+        },
+        b: Position {
+            column: 597,
+            row: 405,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 558,
+            row: 843,
+        },
+        b: Position {
+            column: 841,
+            row: 942,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 325,
+            row: 666,
+        },
+        b: Position {
+            column: 713,
+            row: 834,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 672,
+            row: 606,
+        },
+        b: Position {
+            column: 814,
+            row: 935,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 161,
+            row: 812,
+        },
+        b: Position {
+            column: 490,
+            row: 954,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 950,
+            row: 362,
+        },
+        b: Position {
+            column: 985,
+            row: 898,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 143,
+            row: 22,
+        },
+        b: Position {
+            column: 205,
+            row: 821,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 89,
+            row: 762,
+        },
+        b: Position {
+            column: 607,
+            row: 790,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 234,
+            row: 245,
+        },
+        b: Position {
+            column: 827,
+            row: 303,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 65,
+            row: 599,
+        },
+        b: Position {
+            column: 764,
+            row: 997,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 232,
+            row: 466,
+        },
+        b: Position {
+            column: 965,
+            row: 695,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 739,
+            row: 122,
+        },
+        b: Position {
+            column: 975,
+            row: 590,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 206,
+            row: 112,
+        },
+        b: Position {
+            column: 940,
+            row: 558,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 690,
+            row: 365,
+        },
+        b: Position {
+            column: 988,
+            row: 552,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 907,
+            row: 438,
+        },
+        b: Position {
+            column: 977,
+            row: 691,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 838,
+            row: 809,
+        },
+        b: Position {
+            column: 944,
+            row: 869,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 222,
+            row: 12,
+        },
+        b: Position {
+            column: 541,
+            row: 832,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 337,
+            row: 66,
+        },
+        b: Position {
+            column: 669,
+            row: 812,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 732,
+            row: 821,
+        },
+        b: Position {
+            column: 897,
+            row: 912,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 182,
+            row: 862,
+        },
+        b: Position {
+            column: 638,
+            row: 996,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 955,
+            row: 808,
+        },
+        b: Position {
+            column: 983,
+            row: 847,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 346,
+            row: 227,
+        },
+        b: Position {
+            column: 841,
+            row: 696,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 983,
+            row: 270,
+        },
+        b: Position {
+            column: 989,
+            row: 756,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 874,
+            row: 849,
+        },
+        b: Position {
+            column: 876,
+            row: 905,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 7,
+            row: 760,
+        },
+        b: Position {
+            column: 678,
+            row: 795,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 973,
+            row: 977,
+        },
+        b: Position {
+            column: 995,
+            row: 983,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 911,
+            row: 961,
+        },
+        b: Position {
+            column: 914,
+            row: 976,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 913,
+            row: 557,
+        },
+        b: Position {
+            column: 952,
+            row: 722,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 607,
+            row: 933,
+        },
+        b: Position {
+            column: 939,
+            row: 999,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 226,
+            row: 604,
+        },
+        b: Position {
+            column: 517,
+            row: 622,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 3,
+            row: 564,
+        },
+        b: Position {
+            column: 344,
+            row: 842,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 340,
+            row: 578,
+        },
+        b: Position {
+            column: 428,
+            row: 610,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 248,
+            row: 916,
+        },
+        b: Position {
+            column: 687,
+            row: 925,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 650,
+            row: 185,
+        },
+        b: Position {
+            column: 955,
+            row: 965,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 831,
+            row: 359,
+        },
+        b: Position {
+            column: 933,
+            row: 536,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 544,
+            row: 614,
+        },
+        b: Position {
+            column: 896,
+            row: 953,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 648,
+            row: 939,
+        },
+        b: Position {
+            column: 975,
+            row: 997,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 464,
+            row: 269,
+        },
+        b: Position {
+            column: 710,
+            row: 521,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 643,
+            row: 149,
+        },
+        b: Position {
+            column: 791,
+            row: 320,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 875,
+            row: 549,
+        },
+        b: Position {
+            column: 972,
+            row: 643,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 953,
+            row: 969,
+        },
+        b: Position {
+            column: 971,
+            row: 972,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 236,
+            row: 474,
+        },
+        b: Position {
+            column: 772,
+            row: 591,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 313,
+            row: 212,
+        },
+        b: Position {
+            column: 489,
+            row: 723,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 896,
+            row: 829,
+        },
+        b: Position {
+            column: 897,
+            row: 837,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 544,
+            row: 449,
+        },
+        b: Position {
+            column: 995,
+            row: 905,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 278,
+            row: 645,
+        },
+        b: Position {
+            column: 977,
+            row: 876,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 887,
+            row: 947,
+        },
+        b: Position {
+            column: 946,
+            row: 977,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 342,
+            row: 861,
+        },
+        b: Position {
+            column: 725,
+            row: 935,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 636,
+            row: 316,
+        },
+        b: Position {
+            column: 692,
+            row: 513,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 857,
+            row: 470,
+        },
+        b: Position {
+            column: 950,
+            row: 528,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 736,
+            row: 196,
+        },
+        b: Position {
+            column: 826,
+            row: 889,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 17,
+            row: 878,
+        },
+        b: Position {
+            column: 850,
+            row: 987,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 142,
+            row: 968,
+        },
+        b: Position {
+            column: 169,
+            row: 987,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 46,
+            row: 470,
+        },
+        b: Position {
+            column: 912,
+            row: 853,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 182,
+            row: 252,
+        },
+        b: Position {
+            column: 279,
+            row: 941,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 261,
+            row: 143,
+        },
+        b: Position {
+            column: 969,
+            row: 657,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 69,
+            row: 600,
+        },
+        b: Position {
+            column: 518,
+            row: 710,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 372,
+            row: 379,
+        },
+        b: Position {
+            column: 779,
+            row: 386,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 867,
+            row: 391,
+        },
+        b: Position {
+            column: 911,
+            row: 601,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 174,
+            row: 287,
+        },
+        b: Position {
+            column: 900,
+            row: 536,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 951,
+            row: 842,
+        },
+        b: Position {
+            column: 993,
+            row: 963,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 626,
+            row: 733,
+        },
+        b: Position {
+            column: 985,
+            row: 827,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 622,
+            row: 70,
+        },
+        b: Position {
+            column: 666,
+            row: 291,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 980,
+            row: 671,
+        },
+        b: Position {
+            column: 985,
+            row: 835,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 477,
+            row: 63,
+        },
+        b: Position {
+            column: 910,
+            row: 72,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 779,
+            row: 39,
+        },
+        b: Position {
+            column: 940,
+            row: 142,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 986,
+            row: 570,
+        },
+        b: Position {
+            column: 997,
+            row: 638,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 842,
+            row: 805,
+        },
+        b: Position {
+            column: 943,
+            row: 985,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 890,
+            row: 886,
+        },
+        b: Position {
+            column: 976,
+            row: 927,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 893,
+            row: 172,
+        },
+        b: Position {
+            column: 897,
+            row: 619,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 198,
+            row: 780,
+        },
+        b: Position {
+            column: 835,
+            row: 826,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 202,
+            row: 209,
+        },
+        b: Position {
+            column: 219,
+            row: 291,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 193,
+            row: 52,
+        },
+        b: Position {
+            column: 833,
+            row: 283,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 414,
+            row: 427,
+        },
+        b: Position {
+            column: 987,
+            row: 972,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 375,
+            row: 231,
+        },
+        b: Position {
+            column: 668,
+            row: 236,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 646,
+            row: 598,
+        },
+        b: Position {
+            column: 869,
+            row: 663,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 271,
+            row: 462,
+        },
+        b: Position {
+            column: 414,
+            row: 650,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 679,
+            row: 121,
+        },
+        b: Position {
+            column: 845,
+            row: 467,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 76,
+            row: 847,
+        },
+        b: Position {
+            column: 504,
+            row: 904,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 15,
+            row: 617,
+        },
+        b: Position {
+            column: 509,
+            row: 810,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 248,
+            row: 105,
+        },
+        b: Position {
+            column: 312,
+            row: 451,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 126,
+            row: 546,
+        },
+        b: Position {
+            column: 922,
+            row: 879,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 531,
+            row: 831,
+        },
+        b: Position {
+            column: 903,
+            row: 872,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 602,
+            row: 431,
+        },
+        b: Position {
+            column: 892,
+            row: 792,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 795,
+            row: 223,
+        },
+        b: Position {
+            column: 892,
+            row: 623,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 167,
+            row: 721,
+        },
+        b: Position {
+            column: 533,
+            row: 929,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 813,
+            row: 251,
+        },
+        b: Position {
+            column: 998,
+            row: 484,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 64,
+            row: 640,
+        },
+        b: Position {
+            column: 752,
+            row: 942,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 155,
+            row: 955,
+        },
+        b: Position {
+            column: 892,
+            row: 985,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 251,
+            row: 329,
+        },
+        b: Position {
+            column: 996,
+            row: 497,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 341,
+            row: 716,
+        },
+        b: Position {
+            column: 462,
+            row: 994,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 760,
+            row: 127,
+        },
+        b: Position {
+            column: 829,
+            row: 189,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 86,
+            row: 413,
+        },
+        b: Position {
+            column: 408,
+            row: 518,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 340,
+            row: 102,
+        },
+        b: Position {
+            column: 918,
+            row: 558,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 441,
+            row: 642,
+        },
+        b: Position {
+            column: 751,
+            row: 889,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 785,
+            row: 292,
+        },
+        b: Position {
+            column: 845,
+            row: 325,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 123,
+            row: 389,
+        },
+        b: Position {
+            column: 725,
+            row: 828,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 905,
+            row: 73,
+        },
+        b: Position {
+            column: 983,
+            row: 270,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 807,
+            row: 86,
+        },
+        b: Position {
+            column: 879,
+            row: 276,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 500,
+            row: 866,
+        },
+        b: Position {
+            column: 864,
+            row: 916,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 809,
+            row: 366,
+        },
+        b: Position {
+            column: 828,
+            row: 534,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 219,
+            row: 356,
+        },
+        b: Position {
+            column: 720,
+            row: 617,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 320,
+            row: 964,
+        },
+        b: Position {
+            column: 769,
+            row: 990,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 903,
+            row: 167,
+        },
+        b: Position {
+            column: 936,
+            row: 631,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 300,
+            row: 137,
+        },
+        b: Position {
+            column: 333,
+            row: 693,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 5,
+            row: 675,
+        },
+        b: Position {
+            column: 755,
+            row: 848,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 852,
+            row: 235,
+        },
+        b: Position {
+            column: 946,
+            row: 783,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 355,
+            row: 556,
+        },
+        b: Position {
+            column: 941,
+            row: 664,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 810,
+            row: 830,
+        },
+        b: Position {
+            column: 867,
+            row: 891,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 509,
+            row: 869,
+        },
+        b: Position {
+            column: 667,
+            row: 903,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 769,
+            row: 400,
+        },
+        b: Position {
+            column: 873,
+            row: 892,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 553,
+            row: 614,
+        },
+        b: Position {
+            column: 810,
+            row: 729,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 179,
+            row: 873,
+        },
+        b: Position {
+            column: 589,
+            row: 962,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 466,
+            row: 866,
+        },
+        b: Position {
+            column: 768,
+            row: 926,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 143,
+            row: 943,
+        },
+        b: Position {
+            column: 465,
+            row: 984,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 182,
+            row: 380,
+        },
+        b: Position {
+            column: 569,
+            row: 552,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 735,
+            row: 808,
+        },
+        b: Position {
+            column: 917,
+            row: 910,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 731,
+            row: 802,
+        },
+        b: Position {
+            column: 910,
+            row: 847,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 522,
+            row: 74,
+        },
+        b: Position {
+            column: 731,
+            row: 485,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 444,
+            row: 127,
+        },
+        b: Position {
+            column: 566,
+            row: 996,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 232,
+            row: 962,
+        },
+        b: Position {
+            column: 893,
+            row: 979,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 231,
+            row: 492,
+        },
+        b: Position {
+            column: 790,
+            row: 976,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 874,
+            row: 567,
+        },
+        b: Position {
+            column: 943,
+            row: 684,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 911,
+            row: 840,
+        },
+        b: Position {
+            column: 990,
+            row: 932,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 547,
+            row: 895,
+        },
+        b: Position {
+            column: 667,
+            row: 935,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 93,
+            row: 294,
+        },
+        b: Position {
+            column: 648,
+            row: 636,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 190,
+            row: 902,
+        },
+        b: Position {
+            column: 532,
+            row: 970,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 451,
+            row: 530,
+        },
+        b: Position {
+            column: 704,
+            row: 613,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 936,
+            row: 774,
+        },
+        b: Position {
+            column: 937,
+            row: 775,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 116,
+            row: 843,
+        },
+        b: Position {
+            column: 533,
+            row: 934,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 950,
+            row: 906,
+        },
+        b: Position {
+            column: 986,
+            row: 993,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 910,
+            row: 51,
+        },
+        b: Position {
+            column: 945,
+            row: 989,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 986,
+            row: 498,
+        },
+        b: Position {
+            column: 994,
+            row: 945,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 125,
+            row: 324,
+        },
+        b: Position {
+            column: 433,
+            row: 704,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 60,
+            row: 313,
+        },
+        b: Position {
+            column: 75,
+            row: 728,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 899,
+            row: 494,
+        },
+        b: Position {
+            column: 940,
+            row: 947,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 832,
+            row: 316,
+        },
+        b: Position {
+            column: 971,
+            row: 817,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 994,
+            row: 983,
+        },
+        b: Position {
+            column: 998,
+            row: 984,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 23,
+            row: 353,
+        },
+        b: Position {
+            column: 917,
+            row: 845,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 174,
+            row: 799,
+        },
+        b: Position {
+            column: 658,
+            row: 859,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 490,
+            row: 878,
+        },
+        b: Position {
+            column: 534,
+            row: 887,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 623,
+            row: 963,
+        },
+        b: Position {
+            column: 917,
+            row: 975,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 721,
+            row: 333,
+        },
+        b: Position {
+            column: 816,
+            row: 975,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 589,
+            row: 687,
+        },
+        b: Position {
+            column: 890,
+            row: 921,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 936,
+            row: 388,
+        },
+        b: Position {
+            column: 948,
+            row: 560,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 485,
+            row: 17,
+        },
+        b: Position {
+            column: 655,
+            row: 610,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 435,
+            row: 158,
+        },
+        b: Position {
+            column: 689,
+            row: 495,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 192,
+            row: 934,
+        },
+        b: Position {
+            column: 734,
+            row: 936,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 299,
+            row: 723,
+        },
+        b: Position {
+            column: 622,
+            row: 847,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 484,
+            row: 160,
+        },
+        b: Position {
+            column: 812,
+            row: 942,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 245,
+            row: 754,
+        },
+        b: Position {
+            column: 818,
+            row: 851,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 298,
+            row: 419,
+        },
+        b: Position {
+            column: 824,
+            row: 634,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 868,
+            row: 687,
+        },
+        b: Position {
+            column: 969,
+            row: 760,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 131,
+            row: 250,
+        },
+        b: Position {
+            column: 685,
+            row: 426,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 201,
+            row: 954,
+        },
+        b: Position {
+            column: 997,
+            row: 983,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 353,
+            row: 910,
+        },
+        b: Position {
+            column: 832,
+            row: 961,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 518,
+            row: 781,
+        },
+        b: Position {
+            column: 645,
+            row: 875,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 866,
+            row: 97,
+        },
+        b: Position {
+            column: 924,
+            row: 784,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 836,
+            row: 599,
+        },
+        b: Position {
+            column: 857,
+            row: 767,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 80,
+            row: 957,
+        },
+        b: Position {
+            column: 776,
+            row: 968,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 277,
+            row: 130,
+        },
+        b: Position {
+            column: 513,
+            row: 244,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 62,
+            row: 266,
+        },
+        b: Position {
+            column: 854,
+            row: 434,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 792,
+            row: 764,
+        },
+        b: Position {
+            column: 872,
+            row: 842,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 160,
+            row: 949,
+        },
+        b: Position {
+            column: 273,
+            row: 989,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 664,
+            row: 203,
+        },
+        b: Position {
+            column: 694,
+            row: 754,
+        },
+    },
+    Command {
+        instruction: Toggle,
+        a: Position {
+            column: 491,
+            row: 615,
+        },
+        b: Position {
+            column: 998,
+            row: 836,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 210,
+            row: 146,
+        },
+        b: Position {
+            column: 221,
+            row: 482,
+        },
+    },
+    Command {
+        instruction: Off,
+        a: Position {
+            column: 209,
+            row: 780,
+        },
+        b: Position {
+            column: 572,
+            row: 894,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 766,
+            row: 112,
+        },
+        b: Position {
+            column: 792,
+            row: 868,
+        },
+    },
+    Command {
+        instruction: On,
+        a: Position {
+            column: 222,
+            row: 12,
+        },
+        b: Position {
+            column: 856,
+            row: 241,
+        },
+    },
+]
